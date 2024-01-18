@@ -6,3 +6,5 @@ This Unity project has two features:
 
 2. A project where scripts programmatically alter object properties.
 
+This project has been uploaded to Unity Play, and you can find it at the following link:
+[https://play.unity.com/mg/other/the-floor-is-lava-1522](https://play.unity.com/mg/other/the-floor-is-lava-1522)
