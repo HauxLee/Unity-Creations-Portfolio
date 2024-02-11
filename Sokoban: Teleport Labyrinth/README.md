@@ -43,4 +43,4 @@ After launching the game, you will start with the first level, which serves as t
 
 ## License
 
-This project is open source and available under the [MIT License].
+This project is open source and available under the MIT License.
