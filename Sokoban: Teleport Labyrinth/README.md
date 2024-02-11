@@ -38,9 +38,9 @@ After launching the game, you will start with the first level, which serves as t
 
 ## Project Links
 
-- **GitHub Repository:** [Sokoban: Teleport Labyrinth](https://github.com/HauxLee/Unity-Practice-Set/tree/main/Sokoban%3A%20Teleport%20Labyrinth)
-- **Live Demo:** [Play Sokoban: Teleport Labyrinth](https://hauxlee.github.io/Unity-Practice-Set/Sokoban%3A%20Teleport%20Labyrinth/)
+- **GitHub Repository:** [Sokoban: Teleport Labyrinth](https://github.com/HauxLee/Unity-Creations-Portfolio/tree/main/Sokoban%3A%20Teleport%20Labyrinth)
+- **Live Demo:** [Play Sokoban: Teleport Labyrinth](https://hauxlee.github.io/Unity-Creations-Portfolio/Sokoban%3A%20Teleport%20Labyrinth/)
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License].
