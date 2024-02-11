@@ -1,7 +1,3 @@
-基于您提供的信息和指南，我将为您的GitHub仓库创建一个README文件草稿。这个README旨在展示您的Unity项目集合，同时突出您的个人项目"Sokoban: Teleport Labyrinth"和跟随Unity Learn的学习项目。
-
----
-
 # Unity Project Showcase
 
 Welcome to my Unity Project Showcase! This repository serves as a comprehensive portfolio of the various projects I have developed using Unity. From game mechanics and UI design to script writing in C#, this collection demonstrates a wide range of skills and creativity in game development.
@@ -53,7 +49,3 @@ I am always looking to improve and expand my portfolio. If you have suggestions,
 ## License
 
 All projects within this repository are open source, under the MIT License, allowing for free use, modification, and distribution.
-
----
-
-请根据您的实际情况调整上述内容，例如项目链接、安装指南的细节，以及您希望包含的任何特定信息。这个README旨在为访问者提供一个清晰的概览，同时突出您的技能和项目多样性。
