@@ -17,7 +17,8 @@ A 2D platformer and puzzle strategy game featuring an innovative teleportation m
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-- Unity (Version XYZ or later)
+- Unity Hub (Version 3.7.0 or later)
+- Unity Editor (Version 2022.3.16f1)
 
 ### Installation
 1. Clone the repo
@@ -32,6 +33,11 @@ To get a local copy up and running follow these simple steps.
 
 After launching the game, you will start with the first level, which serves as the tutorial. Upon completing the tutorial level, you can browse through the level selection menu to choose a puzzle. Use the arrow keys to move the player. Interact with boxes to push them to the designated points. Strategically use the teleportation points to navigate through the maze and solve the puzzle. Press the `I` key at a teleportation point to initiate teleportation. Press the `R` key at any point to reset the current level.
 
+## Project Links
+
+- **GitHub Repository:** [Sokoban: Teleport Labyrinth](https://github.com/HauxLee/Unity-Practice-Set/tree/main/Sokoban%3A%20Teleport%20Labyrinth)
+- **Live Demo:** [Play Sokoban: Teleport Labyrinth](https://hauxlee.github.io/Unity-Practice-Set/Sokoban%3A%20Teleport%20Labyrinth/)
+
 ## License
 
-This project is open source.
+This project is open source and available under the [MIT License](LICENSE).
