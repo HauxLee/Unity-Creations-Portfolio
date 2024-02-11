@@ -24,8 +24,8 @@ These projects were completed as part of my learning journey with Unity Learn, f
 
 This section highlights projects that I have personally developed, demonstrating my ability to design and implement more complex game mechanics, create engaging UIs, and write efficient code. These projects reflect my creativity and advanced understanding of game development with Unity.
 
-- **Project 1**: [Sokoban: Teleport Labyrinth](https://github.com/HauxLee/Unity-Practice-Set/tree/main/The%20floor%20is%20lava%20with%20monsters)
-  - [Play Sokoban: Teleport Labyrinth](https://play.unity.com/mg/other/the-floor-is-lava-1522)
+- **Project 1**: [Sokoban: Teleport Labyrinth](https://github.com/HauxLee/Unity-Practice-Set/tree/main/Sokoban%3A%20Teleport%20Labyrinth)
+  - [Play Sokoban: Teleport Labyrinth](https://hauxlee.github.io/Unity-Practice-Set/Sokoban%3A%20Teleport%20Labyrinth/)
 - **Project 2**: [To be completed]()
   - [Play To be completed]()
 - **Project 3**: [To be completed]()
