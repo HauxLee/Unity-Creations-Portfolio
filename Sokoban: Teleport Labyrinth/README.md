@@ -29,19 +29,38 @@ To get a local copy up and running follow these simple steps.
 4. Build and run the project according to your platform.
 
 ## Usage
-After launching the game, navigate through the level selection menu to choose a puzzle. Use the arrow keys or WASD to move the player. Interact with boxes to push them to the designated points. Use the teleportation points strategically to navigate through the maze and solve the puzzle.
 
-## Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+After launching the game, you will start with the first level, which serves as the tutorial. Upon completing the tutorial level, you can browse through the level selection menu to choose a puzzle. Use the arrow keys to move the player. Interact with boxes to push them to the designated points. Strategically use the teleportation points to navigate through the maze and solve the puzzle. Press the `I` key at a teleportation point to initiate teleportation. Press the `R` key at any point to reset the current level.
 
 ## License
-Distributed under the XYZ License. See `LICENSE` for more information.
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+### MIT License Example Text (for your LICENSE file)
+
+```plaintext
+MIT License
+
+Copyright (c) [year] [full name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 ## Acknowledgements
 - Unity Technologies
