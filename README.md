@@ -1,7 +1,6 @@
 # Unity Project Showcase
 
-Welcome to Haoxuan's Unity Project Showcase. This repository is a collection of my work in game development, utilizing Unity to create a variety of projects that showcase my skills in game mechanics, interactive design, C# programming, and more. Designed for both job seeking and academic research purposes, it offers a comprehensive view of my capabilities to potential employers and mentors in the field.
-
+Welcome to Haoxuan's Unity Project Showcase. This repository is a collection of my work in game development, utilizing Unity to create a variety of projects that showcase my skills in game mechanics, interactive design, C# programming, and more.
 ## Overview
 
 This portfolio includes a diverse range of Unity projects, from simple learning exercises to complex, self-developed games. Each project is stored in a separate folder within the repository, complete with its own README file detailing the project's objectives, challenges, and access to live demos where available.
