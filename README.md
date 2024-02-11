@@ -11,18 +11,25 @@ This portfolio includes a diverse range of Unity projects, from simple learning 
 
 These projects were completed as part of my learning journey with Unity Learn, following the Unity Essentials and Junior Programmer pathways. They serve as foundational exercises, helping me to solidify my understanding of Unity's core principles, including 3D and 2D game development, UI design, and scripting in C#.
 
-- **Project 1:** A Car Control Project
-- **Project 2:** A Plane Control Project
-- **Project 3:** A Real-Time 2D Project
-- **Project 4:** A Real-time 3D and Programming Project
+- **Project 1**: [The floor is lava with monsters](https://github.com/HauxLee/Unity-Practice-Set/tree/main/The%20floor%20is%20lava%20with%20monsters)
+  - [Play The floor is lava with monsters](https://play.unity.com/mg/other/the-floor-is-lava-1522)
+- **Project 2**: [CarControl](https://github.com/HauxLee/Unity-Practice-Set/tree/main/CarControl)
+  - [Play CarControl](https://play.unity.com/mg/other/carcontrol)
+- **Project 3**: [PlaneControl](https://github.com/HauxLee/Unity-Practice-Set/tree/main/PlaneControl)
+  - [Play PlaneControl](https://play.unity.com/mg/other/planecontrol)
+- **Project 4**: [Sprite pachinko](https://github.com/HauxLee/Unity-Practice-Set/tree/main/Sprite%20pachinko)
+  - [Play Sprite pachinko](https://play.unity.com/mg/other/sprite-pachinko-661)
 
 ### Personal Unity Projects
 
 This section highlights projects that I have personally developed, demonstrating my ability to design and implement more complex game mechanics, create engaging UIs, and write efficient code. These projects reflect my creativity and advanced understanding of game development with Unity.
 
-- **Project 1:** Sokoban: Teleport Labyrinth - A challenging puzzle game featuring innovative teleportation mechanics.
-- **Project 2:** *Placeholder for future project*
-- **Project 3:** *Placeholder for future project*
+- **Project 1**: [Sokoban: Teleport Labyrinth](https://github.com/HauxLee/Unity-Practice-Set/tree/main/The%20floor%20is%20lava%20with%20monsters)
+  - [Play Sokoban: Teleport Labyrinth](https://play.unity.com/mg/other/the-floor-is-lava-1522)
+- **Project 2**: [To be completed]()
+  - [Play To be completed]()
+- **Project 3**: [To be completed]()
+  - [Play To be completed]()
 
 ## Technologies
 
