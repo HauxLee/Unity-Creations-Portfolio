@@ -34,8 +34,6 @@ The projects in this repository were developed using a variety of technologies, 
 - **C# Tools (Version 4.8.0 or later)**
 - **Visual Studio Tools for Unity (Version 17.8.2.0 or later)**
 
-These tools were instrumental in creating the interactive and immersive environments featured in my projects.
-
 ## Contributing
 
 Contributions to this repository are welcome, especially in the form of feedback, suggestions, or collaborations on future projects. If you're interested in contributing, please feel free to reach out or submit a pull request.
