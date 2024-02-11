@@ -19,6 +19,9 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 - Unity Hub (Version 3.7.0 or later)
 - Unity Editor (Version 2022.3.16f1)
+- Microsoft Visual Studio Community 2022 (Version 17.8.4)
+- C# Tools (Version 4.8.0)
+- Visual Studio Tools for Unity (Version 17.8.2.0)
 
 ### Installation
 1. Clone the repo
